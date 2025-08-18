@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.nav-item {
+    margin:0 10px;
+}
+
+.carousel-item img {
+    height: 500px;
+    object-fit: cover; /*Para não distorcer a imagem*/
+}
+
+.accordion-button {
+    font-weight: bold;
+}
+
+.text-light {
+    text-decoration: none;
+}
